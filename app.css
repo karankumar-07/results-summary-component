@@ -1,0 +1,97 @@
+.circle {
+  height: 150px;
+  width: 150px;
+  background-color: blue;
+  border-radius: 50%;
+  text-align: center;
+  padding: 16px;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  margin-left: 90px;
+  -webkit-box-shadow: 0 -4px 3px 3px #886cf0;
+  -moz-box-shadow: 0 -4px 3px 3px #886cf0;
+  box-shadow: 0 -4px 3px 3px #886cf0;
+}
+
+.result {
+  color: hsl(241, 100%, 89%);
+  font-weight: 60px;
+  padding-top: 50px;
+}
+
+.marks-paragraph {
+  color: hsl(241, 100%, 89%);
+  padding-left: 20px;
+  padding-top: 10px;
+}
+
+.great {
+  color: white;
+  font-size: 30px;
+}
+
+.seven-six {
+  color: white;
+  font-size: 50px;
+}
+
+.hundred {
+  color: grey;
+}
+
+.card-1 {
+  background-image: linear-gradient(
+    to bottom,
+    hsl(252, 100%, 67%),
+    hsl(241, 81%, 54%)
+  );
+  border-radius: 15px;
+  overflow: hidden;
+}
+
+.container {
+  margin-top: 120px;
+  max-width: 760px;
+  padding-top: 20px;
+  height: 60vh;
+}
+
+.btn {
+  height: 60px;
+}
+
+.btn-1 {
+  background-color: hsla(0, 100%, 67%, 0.1);
+  color: hsl(0, 100%, 67%);
+}
+
+.btn-2 {
+  background-color: hsla(39, 100%, 56%, 0.1);
+  color: hsl(39, 100%, 56%);
+}
+
+.btn-3 {
+  background-color: hsl(166, 100%, 37%, 0.1);
+  color: hsl(166, 100%, 37%);
+}
+
+.btn-4 {
+  background-color: hsla(234, 85%, 45%, 0.1);
+  color: hsl(234, 85%, 45%);
+}
+
+.strong {
+  margin-right: 2px;
+}
+
+.reaction {
+  padding-left: 10px;
+}
+
+.marks {
+  padding-left: 70px;
+}
+
+.btn-5 {
+  background-color: hsla(241, 72%, 46%, 0);
+}
